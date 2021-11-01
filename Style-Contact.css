@@ -106,6 +106,10 @@ header{
     user-select: none;
 }
 
+.email-link{
+
+    color: cyan;
+}
 @media screen and (max-width: 1024px){
 
     header{
